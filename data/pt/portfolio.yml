@@ -1,0 +1,68 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Vídeos
+  portfolio_item :
+    # portfolio item loop
+    - name : Oyun
+      image : images/portfolio/oyun.png
+      videoId : "WcwEY1DDzCA"
+      #image_webp : images/portfolio/portfolio-1.webp
+      categories : ["espetáculos"]
+      content : Estudo sobre o evoluir de um corpo.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Aulas de Técnica Graham na Sala Crisantempo
+      image : images/portfolio/crisantempo.png
+      videoId : "SVa38hkgUMo"
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["aulas"]
+      content : Aula de Graham com música ao vivo de Nenem Menezes.
+      link : ""
+      
+    # portfolio item loop
+    - name : Depoimento sobre Maria Duschenes
+      image : images/portfolio/duschenes.png
+      videoId : "TaF2cysRI0M"
+      #image_webp : images/portfolio/portfolio-3.webp
+      categories : ["entrevistas"]
+      content : Exposição *MARIA DUSCHENES - Expressão da Liberdade*.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Entrevista ao Programa Cena
+      image : images/portfolio/programa_cena.png
+      #image_webp : images/portfolio/portfolio-4.webp
+      videoId : "wFm4CpVU16s"
+      categories : ["entrevistas"]
+      content : Entrevista ao Programa Cena sobre o universo da dança.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Demonstração de Pilates
+      image : images/portfolio/pilates.png
+      #image_webp : images/portfolio/portfolio-5.webp
+      videoId: "PVGj-hBI2kg"
+      categories : ["aulas"]
+      content : Demonstração de Pilates.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Aulas de Técnica Graham na Sala Crisantempo 2
+      image : images/portfolio/graham_crisantempo_nenem.png
+      videoId : "pBJYFero_4g"
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["aulas"]
+      content : Aula de Graham com música de Nenem Menezes.
+      link : ""
+      
+    # portfolio item loop
+    - name : Aulas de Técnica Graham Online
+      image : images/portfolio/graham_online.png
+      videoId : "7F8-DcR_Fj0"
+      #image_webp : images/portfolio/portfolio-2.webp
+      categories : ["aulas"]
+      content : Aula Online via Zoom de Fundamentos de Graham.
+      link : ""
+      

@@ -1,0 +1,46 @@
+############################# feature ###################################
+sobre:
+  enable : true
+  image : images/about/DANIELAstasi.jpg
+  title : QUEM SOU
+  content : <p> Formada em Dança pela UFBA, em Dançaterapia pela NYU (EUA) e no Método Pilates pelo The Pilates Studio, fui bailarina da Martha Graham Dance Company e do Balé da Cidade de São Paulo. </p>
+    <p> De 1983 a 1991 trabalhei diretamente com Martha Graham. </p>
+    <p>  Desde 2000 estou no Brasil, atuando como professora, terapeuta e coordenadora pedagógica.</p>
+  feature_item : 
+      # feature item loop
+    - title : Formação
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : <p>Bacharelado em Dança - UFBA (1978)</p>
+                  <p>Formação em Técnica Martha Graham - Martha Graham School, NYC (1985)</p>
+                    <p>Bachelor of Arts in Dance/Movement Therapy - New York University (1995)</p>
+                    <p>Certificação no Método Pilates - The Pilates Studio (2003)</p>
+      
+           # feature item loop
+    - title : Bailarina
+      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : <p>Balé da Cidade de São Paulo (1981 a 1983) </p>
+                <p>Martha Graham Ensemble (1983 a 1985)</p>
+                <p>Martha Graham Dance Company (1985 a 1993)</p>
+                
+      # feature item loop
+    - title : Professora
+      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : <p>Martha Graham Dance School (1986 a 1991)</p>
+                    <p>Centro Projeto Axé de Defesa e Proteção a Criança e ao Adolescente - Salvador, Bahia (2000 a 2002) </p>
+                <p>Balé da Cidade de São Paulo (2002 a 2005) </p>
+                <p>The Pilates Studio (2003 a 2004) </p>
+                <p>Oficinas de Dança no Centro Cultural São Paulo (2003 e 2004) </p>
+                <p>Espaço de Dança Ruth Rachou (2002 a 2010) </p>
+                <p>São Paulo Companhia de Dança (2008 a 2011) - professora e ensaiadora </p>
+                <p>Escola de Dança de São Paulo (2011 a 2018) - professora/coordenadora pedagógica/ gestora de Projetos Especiais </p>
+                <p> Balé Paraisópolis (2019 a 2020) </p>
+                <p> Sala Crisantempo (desde 2018) </p>
+                  
+
+  
+                 
+      # feature item loop
+    - title : Terapeuta
+      #icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Membro da equipe do Dr Liaw Chao no Núcleo de Medicina Integrativa do Hospital Beneficência Portuguesa.
+

@@ -1,0 +1,37 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Mais Informações
+  subtitle : Contato
+  content : Quer saber mais sobre os cursos? Se tiver interesse nas aulas de Técnica Graham ou de Pilates ou quiser que em dê algum workshop personalizado pode me enviar um e-mail ou me procurar no Instagram.
+
+  # Contact details
+  contact_list:
+    #- icon : ti-location-pin # themify icon pack : #https://themify.me/themify-icons
+      #info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      
+    #- icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      #info : "Phone: +880-31-000-000"
+      
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+     # info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: danistasi@hotmail.com"
+      
+    - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+      info : "Instagram: @dani.stasi"
+      
+    - icon : ti-youtube # themify icon pack : https://themify.me/themify-icons
+      info : "Instagram: @danistasi6956"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/mgejkwjz" #contact form works with https://formspree.io
+    name : "Seu Nome"
+    email : "Seu e-mail"
+    subject : "Assunto"
+    message : "Quer receber atualizações sobre próximos cursos? Se inscreva aqui!"
+    submit : "Envie"

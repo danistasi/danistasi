@@ -1,0 +1,30 @@
+################################# Service #################################
+aulas:
+  enable : true
+  title : Aulas
+  service_item :
+    # service item loop
+    - name : Presenciais
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Aulas presenciais para Iniciantes e Iniciados em Técnica Graham na Sala Crisantempo (SP). Segunda-feira das 10h00 às 11h30, Quarta-feira das 13h00 às 14h30 e Sexta-feira das 17h30 às 19h.
+      
+    # service item loop
+    - name : Onlines
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Aulas para Iniciantes e Iniciados  em Técnica Graham via Zoom. Terças e Quintas-feira das 18h00 às 19h30. Conta com vídeos de apoio.
+      
+    # service item loop
+    - name : Imersão
+      #icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Intensivos de 1 semana (todos os dias) em Técnica Graham em Julho e no Final do Ano. Contate-me para mais informações.
+      
+    # service item loop
+    - name : Workshops
+      #icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Workshops em todo o Brasil. Tem interesse em organizar um em sua cidade? Contate-me para mais informações.
+      
+        # service item loop
+    - name : Pilates
+      #icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Atendimentos individuais de Pilates com equipamentos, conforme sua necessidade e após avaliação.
+      

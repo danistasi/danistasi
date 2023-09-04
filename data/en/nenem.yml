@@ -1,0 +1,43 @@
+############################# feature ###################################
+nenem:
+  enable : true
+  image : images/about/nenem.jpeg
+  title : <span style="color:red">AULAS COM MÚSICA AO VIVO COM </span> NENEM MENEZES
+  content : <p> Todas as aulas presenciais contam com música ao vivo performada por Nenem Menezes. </p>
+    <p> Nenem menezes é um músico brasileiro multi-instrumentista, de formação artística tradicional, compositor e luthier. </p>
+    <p>  Possui mais de 30 anos de experiência em música para dança moderna e contemporânea. Atualmente [e parte do corpo docente do Teatro Municipal de São Paulo. </p>
+  feature_item :
+      # feature item loop
+    - title : Experiência de Trabalho
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : <p>Theatro Municipal de São Paulo - EDASP</p>
+                  <p>Grupo Corpo, Minas Gerais </p>
+                    <p>Palácio das Artes - Fundação Clóvis Salgado, Minas Gerais</p>
+                
+                
+      # feature item loop
+    - title : Coreógrafos com quem Trabalhou
+      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : <p>Dudude Hermann</p>
+                    <p>Ismael Ivo </p>
+                <p>Dani Stasi</p>
+                <p>Sônia Mota </p>
+                
+           # feature item loop
+    - title : Atividades
+      #icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : <p>The Juillard School - NYC (EUA) </p>
+                <p>Alvin AIley American Dance Theatre - NYC (EUA) </p>
+                <p>LA Guardia High School - NYC (EUA) </p>
+               <p>Fiorello H. La Guardia High School of Muscia & Art and Performing Arts - NYC (EUA) </p>
+                <p> Authentic Pilates Brazil, The Pilates Studio Brasil - São Paulo </p>
+                <p>La Mandrágora - Viña del Mar (Chile) </p>
+                <p>Ballet Parisópolis - SP </p>
+                <p>Companhia de Dança de Minas Gerais - MG </p>
+                <p>Companhia de Dança de Diadema - SP </p>
+                <p>La Mandrágora - Viña del Mar (Chile) </p>
+                <p>Raça Cia de Dança </p>
+                <p> Núcleo Luz - SP </p>
+                  
+
+

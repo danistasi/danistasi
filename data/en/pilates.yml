@@ -1,0 +1,33 @@
+################################# Skill ##################################
+pilates:
+  enable : true
+  bg_image : images/about/pilates.webp
+  title : Joseph Pilates
+  #subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  content : Autodidata de observação aguçada,  Joseph Pilates dedicou muitos anos a pesquisar tudo o que se referia ao funcionamento do corpo humano. Estudou fisiologia, anatomia, Medicina do Oriente e modalidades ocidentais e orientais de exercícios da época, em busca do equilíbrio e da manutenção da saúde física e mental. </br></br>
+    Fascinado pela devoção do povo grego à perfeição física, Pilates edificou a Contrologia sobre um pensamento da Antiguidade que em latim se formulava -  *Mens sana in corpore sano*. Vinculou, assim, o *condicionamento físico e mental* ao seu sistema, que reflete sua preocupação com aspectos muitas vezes considerados *imateriais*, como a mente e o espírito.</br></br>
+    O Método Pilates trabalha a estrutura física do indivíduo como um todo, de dentro para fora, fortalecendo todos os músculos, fazendo com haja um balanceamento perfeito entre a força dos membros do corpo e devolvendo o corpo ao seu estado de equilíbrio.
+  button:
+    enable : true
+    label : "Aulas de Pilates"
+    link : "#aulas"
+
+ # skill_item :
+    # skill item loop
+  #  - name :  Business Development
+   #   percent : 90%
+      
+    # skill item loop
+    #- name :  Analysis
+     # percent : 70%
+      
+    # skill item loop
+    #- name :  Design
+     # percent : 80%
+      
+    #- name :  IOS Development
+     # percent : 95%
+      
+    # skill item loop
+    #- name :  Android Development
+     # percent : 75%

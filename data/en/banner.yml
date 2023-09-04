@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  #bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/Dani.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Dani Stasi"
+  content : "Bailarina, coreógrafa e professora de dança moderna (técnica Graham) e Pilates"
+  button:
+    enable : true
+    label : "Saiba mais"
+    link : "#about"

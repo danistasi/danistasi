@@ -1,0 +1,15 @@
+############################# call to action ##############################
+graham:
+  enable : true
+  bg_image : "images/backgrounds/graham-andy-warhol.jpg"
+  #bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Martha Graham"
+  content : Considerada um dos grandes gênios criadores do século XX, Martha Graham transformou o panorama da Dança Moderna norte-americana, forjando uma linguagem de movimento única e inovadora, e criando uma técnica formativa que ofereceu a primeira alternativa para o Balé Classico. </br></br>
+        Baseados na expansão e contração da respiração, nas espirais e nas quedas seus movimentos acessam a musculatura profunda da pelve e do torso e exploram a fundo as relações com a gravidade, com o tempo e com o espaço.</br></br>
+    Criou 180 obras dedicadas à expressão das emoções humanas através do movimento, abordando temas sociais, políticos e sexuais controversos, sempre a partir do ponto de vista feminino.</br></br>
+        O impacto que a dança de Martha Graham causou na dança é frequentemente comparado à influência que Picasso teve para a pintura em seu tempo, ou Stravinsky na música, ou Frank Lloyd Wright na arquitetura. As suas contribuições transformaram essa forma de arte, revitalizando e difundindo a dança ao redor do mundo.</br></br>
+        Trabalhar diretamente com ela marcou profundamente minha trajetória na dança e na vida, impulsionando um desejo sempre maior de garantir e difundir o seu legado junto às novas gerações.
+  button:
+    enable : true
+    label : "Aulas de Técnica Graham"
+    link : "#aulas"
