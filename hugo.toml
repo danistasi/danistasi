@@ -250,7 +250,7 @@ weight = 9
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Dani Stasi: Bailarina, Coreógrafa, Professora e Terapeuta"
+description = "Dani Stasi - Bailarina, Coreógrafa, Professora e Terapeuta"
 author = "Dani Stasi"
 # Google Analytics
 google_analytics_id = "" # Your ID
